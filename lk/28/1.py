@@ -8,3 +8,4 @@ class Solution:
    
 
 print(Solution.strStr('mississippi', 'issi'))
+
